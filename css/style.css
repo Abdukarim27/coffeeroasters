@@ -308,7 +308,7 @@ img {
 .index-collection-title {
   margin-top: 0;
   margin-bottom: 10px;
-  font-size: 48px;
+  font-size: 36px;
   line-height: normal;
   font-weight: 500;
   text-transform: uppercase;
@@ -316,7 +316,7 @@ img {
 
 .index-collection-text {
   margin: 0;
-  font-size: 22px;
+  font-size: 19px;
   line-height: 34px;
 }
 
